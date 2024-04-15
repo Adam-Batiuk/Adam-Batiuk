@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Adam
 
@@ -22,4 +22,4 @@ My name is Adam
   <a href="https://www.apple.com/ca/ios/"><img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS"></a>
 </p>
 
-![Social Coding](./images/social_coding.jpg)
+![Adam Batiuk](./images/download)
